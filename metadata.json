@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "Eigennode",
+  "website": "https://www.eigenlayer.xyz/",
+  "description": "Build open innovation ∞ play infinite sum games.",
+  "logo": "https://github.com/Cccclaireee/eigenlayer_node_eigennode/blob/main/eigenode.png?raw=true",
+  "twitter": "https://twitter.com/eigenlayer"
 }
